@@ -4,7 +4,7 @@ The BitBot is a simple robotics/embedded systems project that utilized motor con
 
 The main body of the robot is a cylinder with two wheels on either side (hence the name, BitBot). The body of the bot, as well as the wheels, were 3D modelled and printed using the Ender3 Creality 3D printer. The chassis for the controller of the bot was also 3D modeled and printed the same way. The controller is attached to a glove, and is used to determine the orientation of your hand in order to control the movement of the BitBot.
 
-A video showing a basic overview can be found [here]().
+A video showing a basic overview can be found [here](https://youtu.be/PNtvKN4nRBg).
 
 Included in the Github Repoistory, there is simple documentation that can be referenced for questions. If more is desired, reach out and that can be updated.
 
